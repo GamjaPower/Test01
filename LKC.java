@@ -11,7 +11,7 @@ public class LKC {
 		// TODO Auto-generated method stub
 		System.out.println("LKC2");
 		System.out.println("LKC1");
-		System.out.println("LKC3");
+		System.out.println("LKC5");
 		
 	}
 
